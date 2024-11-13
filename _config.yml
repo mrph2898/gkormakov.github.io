@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-url: http://gkormakov.github.io
+domain: gkormakov.github.io
+url: https://gkormakov.github.io
 title: Georgiy Kormakov's homepage
 description: Several thoughts, experiments, bio...
